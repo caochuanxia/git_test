@@ -7,7 +7,7 @@ package com.itgaohsu.bean;
  * @date 2020/4/10 0010 14:06
  */
 public class User {
-    private int id=10;
+    private int id;
 
     private String loginname="xiaohua";
 
