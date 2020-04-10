@@ -9,7 +9,6 @@ package com.itgaohsu.bean;
 public class User {
     private int id;
 
-
     private String loginname="xiaohua";
 
     private String  password;
@@ -46,4 +45,6 @@ public class User {
                 ", password='" + password + '\'' +
                 '}';
     }
+
+
 }
